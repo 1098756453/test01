@@ -1,6 +1,0 @@
-server:
-  #tomcat端口号
-  port: 888
-  servlet:
-    #项目环境路径
-    context-path: /boot

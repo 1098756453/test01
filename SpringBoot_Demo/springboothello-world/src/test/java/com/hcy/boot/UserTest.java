@@ -16,6 +16,7 @@ public class UserTest {
     private ApplicationContext context; //spring容器对象
 
     /*第一次修改了*/
+    /*第二次修改了内容*/
     @Test
     public void test() {
         System.out.println(context.getBean(ObjectMapper.class)); //从spring容器中取出ObjectMapper实例
