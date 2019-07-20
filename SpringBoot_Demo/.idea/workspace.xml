@@ -19,17 +19,18 @@
   <component name="CompilerWorkspaceConfiguration">
     <option name="MAKE_PROJECT_ON_SAVE" value="true" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="SpringBoot_Demo" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/springboothello-world/src/test/java/com/hcy/boot/UserTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="212">
-              <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+            <state relative-caret-position="352">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#591#592#0" expanded="true" />
-                <element signature="e#691#692#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -55,6 +56,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RESET_MODE" value="MIXED" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -105,6 +107,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -146,7 +149,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -211,6 +213,7 @@
       <workItem from="1562573378217" duration="3499000" />
       <workItem from="1562576933044" duration="782000" />
       <workItem from="1563601890759" duration="1821000" />
+      <workItem from="1563603944113" duration="1300000" />
     </task>
     <task id="LOCAL-00001" summary="第二次提交">
       <created>1563602775321</created>
@@ -226,22 +229,29 @@
       <option name="project" value="LOCAL" />
       <updated>1563602890144</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="第四次提交">
+      <created>1563604170400</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1563604170401</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11680000" />
+    <option name="totallyTimeSpent" value="12980000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2600536" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="JRebel" order="2" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49778762" visible="true" weight="0.26340482" />
+      <window_info id="Structure" order="1" sideWeight="0.5022124" side_tool="true" weight="0.26340482" />
+      <window_info id="JRebel" order="2" sideWeight="0.5022124" side_tool="true" weight="0.26340482" />
       <window_info id="UI Designer" order="3" />
-      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Favorites" order="4" sideWeight="0.5022124" side_tool="true" weight="0.26340482" />
       <window_info id="Designer" order="5" />
-      <window_info id="Web" order="6" side_tool="true" />
+      <window_info id="Web" order="6" sideWeight="0.5022124" side_tool="true" weight="0.26340482" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.4526167" />
@@ -252,11 +262,11 @@
       <window_info anchor="bottom" id="Spring" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="10" sideWeight="0.6233244" side_tool="true" visible="true" weight="0.35977337" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.6246649" side_tool="true" weight="0.35835695" />
       <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
-      <window_info anchor="bottom" id="Version Control" order="14" sideWeight="0.3766756" visible="true" weight="0.35977337" />
+      <window_info anchor="bottom" id="Version Control" order="14" sideWeight="0.37533513" weight="0.35977337" />
       <window_info anchor="bottom" id="JRebel Executor" order="15" />
       <window_info anchor="bottom" id="JRebel Console" order="16" side_tool="true" />
       <window_info anchor="bottom" id="Problems" order="17" />
@@ -273,10 +283,37 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="第二次提交" />
     <MESSAGE value="第三次提交了内容" />
-    <option name="LAST_COMMIT_MESSAGE" value="第三次提交了内容" />
+    <MESSAGE value="第四次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="第四次提交" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/springboothello-world/src/main/java/com/hcy/boot/Application.java">
@@ -322,22 +359,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/springboothello-world/src/test/java/com/hcy/boot/UserTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/springbootmybatis/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1232">
           <caret line="56" selection-start-line="56" selection-end-line="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboothello-world/src/test/java/com/hcy/boot/UserTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#591#592#0" expanded="true" />
-            <element signature="e#691#692#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
