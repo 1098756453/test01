@@ -14,7 +14,10 @@ public class UserTest {
 
     @Autowired// 自动注入
     private ApplicationContext context; //spring容器对象
+
     /*张三修改了文件*/
+    /*李四修改了文件*/
+    /*王五修改了文件*/
     @Test
     public void test() {
         System.out.println(context.getBean(ObjectMapper.class)); //从spring容器中取出ObjectMapper实例
