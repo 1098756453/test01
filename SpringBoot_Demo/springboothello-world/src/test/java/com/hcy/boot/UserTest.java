@@ -17,6 +17,7 @@ public class UserTest {
 
     //第一次修改testBranch分支内容
     //张三修改testBranch分支内容
+    //分支中修改代码
     @Test
     public void test() {
         System.out.println(context.getBean(ObjectMapper.class)); //从spring容器中取出ObjectMapper实例
