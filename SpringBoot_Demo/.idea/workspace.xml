@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="23819c24-4341-41cb-8aa5-53c112718447" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboothello-world/src/test/java/com/hcy/boot/UserTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboothello-world/src/test/java/com/hcy/boot/UserTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/springboothello-world/target/" />
     <ignored path="$PROJECT_DIR$/springbootmybatis/target/" />
@@ -27,8 +26,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/springboothello-world/src/test/java/com/hcy/boot/UserTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="286">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -56,6 +55,11 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="master" />
+      </map>
+    </option>
     <option name="RESET_MODE" value="MIXED" />
   </component>
   <component name="IdeDocumentHistory">
@@ -106,7 +110,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -149,6 +152,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -164,7 +168,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -213,7 +217,8 @@
       <workItem from="1562573378217" duration="3499000" />
       <workItem from="1562576933044" duration="782000" />
       <workItem from="1563601890759" duration="1821000" />
-      <workItem from="1563603944113" duration="1300000" />
+      <workItem from="1563603944113" duration="3171000" />
+      <workItem from="1563680146541" duration="762000" />
     </task>
     <task id="LOCAL-00001" summary="第二次提交">
       <created>1563602775321</created>
@@ -236,16 +241,23 @@
       <option name="project" value="LOCAL" />
       <updated>1563604170401</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="第五次提交">
+      <created>1563605265104</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1563605265104</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12980000" />
+    <option name="totallyTimeSpent" value="15613000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49778762" visible="true" weight="0.26340482" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49778762" visible="true" weight="0.26675603" />
       <window_info id="Structure" order="1" sideWeight="0.5022124" side_tool="true" weight="0.26340482" />
       <window_info id="JRebel" order="2" sideWeight="0.5022124" side_tool="true" weight="0.26340482" />
       <window_info id="UI Designer" order="3" />
@@ -260,13 +272,13 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49932975" weight="0.30736545" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.6246649" side_tool="true" weight="0.35835695" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.6253351" side_tool="true" visible="true" weight="0.35977337" />
       <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
-      <window_info anchor="bottom" id="Version Control" order="14" sideWeight="0.37533513" weight="0.35977337" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="14" sideWeight="0.37466487" visible="true" weight="0.35977337" />
       <window_info anchor="bottom" id="JRebel Executor" order="15" />
       <window_info anchor="bottom" id="JRebel Console" order="16" side_tool="true" />
       <window_info anchor="bottom" id="Problems" order="17" />
@@ -308,12 +320,27 @@
         </entry>
       </map>
     </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="第二次提交" />
     <MESSAGE value="第三次提交了内容" />
     <MESSAGE value="第四次提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="第四次提交" />
+    <MESSAGE value="第五次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="第五次提交" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/springboothello-world/src/main/java/com/hcy/boot/Application.java">
@@ -361,8 +388,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/springboothello-world/src/test/java/com/hcy/boot/UserTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="286">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
