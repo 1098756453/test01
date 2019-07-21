@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="23819c24-4341-41cb-8aa5-53c112718447" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboothello-world/src/test/java/com/hcy/boot/UserTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboothello-world/src/test/java/com/hcy/boot/UserTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/springboothello-world/target/" />
     <ignored path="$PROJECT_DIR$/springbootmybatis/target/" />
@@ -26,10 +27,12 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/springboothello-world/src/test/java/com/hcy/boot/UserTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            <state relative-caret-position="292">
+              <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#602#603#0" expanded="true" />
+                <element signature="e#702#703#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -218,7 +221,7 @@
       <workItem from="1562576933044" duration="782000" />
       <workItem from="1563601890759" duration="1821000" />
       <workItem from="1563603944113" duration="3171000" />
-      <workItem from="1563680146541" duration="762000" />
+      <workItem from="1563680146541" duration="1021000" />
     </task>
     <task id="LOCAL-00001" summary="第二次提交">
       <created>1563602775321</created>
@@ -248,14 +251,22 @@
       <option name="project" value="LOCAL" />
       <updated>1563605265104</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="创建testBranch后第一次提交到testBranch分支">
+      <created>1563681251589</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1563681251590</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15613000" />
+    <option name="totallyTimeSpent" value="15872000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49778762" visible="true" weight="0.26675603" />
       <window_info id="Structure" order="1" sideWeight="0.5022124" side_tool="true" weight="0.26340482" />
@@ -274,11 +285,11 @@
       <window_info anchor="bottom" id="Spring" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49932975" weight="0.30736545" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.6253351" side_tool="true" visible="true" weight="0.35977337" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="10" sideWeight="0.6253351" side_tool="true" visible="true" weight="0.35977337" />
       <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="14" sideWeight="0.37466487" visible="true" weight="0.35977337" />
+      <window_info anchor="bottom" id="Version Control" order="14" sideWeight="0.37466487" visible="true" weight="0.35977337" />
       <window_info anchor="bottom" id="JRebel Executor" order="15" />
       <window_info anchor="bottom" id="JRebel Console" order="16" side_tool="true" />
       <window_info anchor="bottom" id="Problems" order="17" />
@@ -336,11 +347,13 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="第二次提交" />
     <MESSAGE value="第三次提交了内容" />
     <MESSAGE value="第四次提交" />
     <MESSAGE value="第五次提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="第五次提交" />
+    <MESSAGE value="创建testBranch后第一次提交到testBranch分支" />
+    <option name="LAST_COMMIT_MESSAGE" value="创建testBranch后第一次提交到testBranch分支" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/springboothello-world/src/main/java/com/hcy/boot/Application.java">
@@ -388,10 +401,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/springboothello-world/src/test/java/com/hcy/boot/UserTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="292">
+          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#602#603#0" expanded="true" />
+            <element signature="e#702#703#0" expanded="true" />
           </folding>
         </state>
       </provider>
